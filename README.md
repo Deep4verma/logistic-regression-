@@ -127,8 +127,8 @@ Predicted whether a user would click on an advertisement.
 
 ## Author
 
-**Your Name**
+**Deepti Verma**
 
-GitHub: [Your GitHub Profile]
+GitHub: [https://github.com/Deep4verma]
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: [(https://www.linkedin.com/in/deeptiverma1004/]
